@@ -1,0 +1,25 @@
+#speech{
+    font-family:Arial, sans-serif;
+    font-size: medium;
+    color:black;
+}
+#song{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: small;
+    color: black;
+}
+#direction a {
+    font-family:Garamond,serif ;
+    background-color: blanchedalmond;
+    color:blue;
+
+}
+#direction a:hover {
+        color:red;
+    }
+#name{
+
+    font-family: 'Times New Roman', Times, sans-serif;
+    color: black;
+
+}
