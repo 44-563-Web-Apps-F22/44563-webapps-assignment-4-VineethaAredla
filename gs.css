@@ -23,25 +23,51 @@
     font-size: medium;
     color: blueviolet;
 }
+.elsa:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: rgb(172, 186, 184);
+}
 .bertha{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
     color:aquamarine;
 }
+.bertha:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:rgb(255, 187, 127);
+}
 .olga{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: medium;
-    color: pink;
+    color: rgb(255, 192, 227);
+}
+.olga:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: rgb(192, 237, 255);
 }
 .gretchen{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: medium;
     color: skyblue;
 }
+.gretchen:hover{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: rgb(235, 228, 135);
+}
 .ludwig{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: medium;
     color:darkmagenta
+
+}
+.ludwig:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:rgb(25, 139, 0)
 
 }
 #singers{
@@ -63,3 +89,17 @@
 #singers tr:nth-child(even){
     background-color: yellowgreen;
 }
+.lisa{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color:rgb(0, 139, 37)
+
+}
+.lisa:hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color:rgb(0, 21, 139)
+
+}
+
+
