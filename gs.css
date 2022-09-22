@@ -1,25 +1,46 @@
-#speech{
+.speech{
     font-family:Arial, sans-serif;
     font-size: medium;
     color:black;
 }
-#song{
+.chorus{
     font-family: 'Times New Roman', Times, sans-serif;
-    font-size: small;
+    font-size: medium;
     color: black;
 }
-#direction a {
+.direction  {
     font-family:Garamond,serif ;
     background-color: blanchedalmond;
     color:blue;
 
 }
-#direction a:hover {
+.direction:hover {
         color:red;
+        background-color:yellow;
     }
-#name{
-
-    font-family: 'Times New Roman', Times, sans-serif;
-    color: black;
+.elsa{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: blueviolet;
+}
+.bertha{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:aquamarine;
+}
+.olga{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: pink;
+}
+.gretchen{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: skyblue;
+}
+.ludwig{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:darkmagenta
 
 }
